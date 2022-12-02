@@ -5,4 +5,5 @@
 - 🌱 I’m currently learning python and FreeCAD<br>
 - 📫 you can reach me at avie10eee@gmail.com or avie10@protonmail.com </p>
 <img src="https://user-images.githubusercontent.com/105246539/192663793-0fa67a06-357d-4b50-92dd-22b3119ccdd8.jpeg" height="198" width="198">
+[![Avie's GitHub stats](https://github-readme-stats.vercel.app/api?username=avie10eee)](https://github.com/anuraghazra/github-readme-stats)
 
