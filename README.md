@@ -1,5 +1,5 @@
 ![Counter](https://komarev.com/ghpvc/?username=avie10eee)
-<h2>- 👋 Hi, I’m avie10eee </h2>
+<h2>- 👋 Hi, I’m Avi Geller </h2>
 <h1>- 🍁I am a self taught linux and IT enthusiast from Canada</h1>
 
 
